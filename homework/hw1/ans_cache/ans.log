@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.9.12)  19 SEP 2025 02:08
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2025.9.12)  19 SEP 2025 14:59
  restricted system commands enabled.
 **c:/Users/17169/Documents/MyWork/2501-fzu-LinearAlb-yfsu/homework/hw1/ans
 (c:/Users/17169/Documents/MyWork/2501-fzu-LinearAlb-yfsu/homework/hw1/ans.tex
@@ -1382,7 +1382,7 @@ Here is how much of LuaTeX's memory you used:
  1106 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 250 attribute, 59 glue_spe
 c, 31 attribute_list, 1 write, 10 user_defined nodes
-   avail lists: 1:2,2:22448,3:283,4:162,5:116,6:33,7:2675,8:45,9:918,10:12,11:2
+   avail lists: 1:2,2:22208,3:285,4:154,5:116,6:33,7:2655,8:45,9:892,10:12,11:2
  38561 multiletter control sequences out of 65536+600000
  108 fonts using 127917559 bytes
  90i,9n,111p,476b,402s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1397,7 +1397,7 @@ iles/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/sy
 mbols/msbm10.pfb>
-Output written on ans.pdf (3 pages, 171500 bytes).
+Output written on ans.pdf (3 pages, 171153 bytes).
 
 PDF statistics: 82 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
